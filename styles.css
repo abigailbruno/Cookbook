@@ -1,1 +1,17 @@
-/* This is a CSS comment. Put your CSS styling below this line */
+body {
+    color: whitesmoke;
+  background-color: #9984e6; 
+}
+h1{font-size: 65px;
+  text-align: center;}
+
+h3{font-size: 35px;}
+
+h4{font-size: 27px;}
+
+img{width: 45%;
+    border-radius: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   }

@@ -1,0 +1,34 @@
+body {
+  color: black;
+}
+
+#limeade {
+  background-color: #87f287;
+}
+
+#lemonade {
+  background-color: #fdfd81;
+}
+
+#lemonpasta {
+  background-color: #f28888; 
+}
+
+h1 {
+  font-size:50px;
+  font-family: helvetica;
+  text-align: center;
+}
+
+h2 {
+  font-size:35px;
+  font-family: arial;
+}
+
+img {
+  width: 35%;
+  border-radius: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
